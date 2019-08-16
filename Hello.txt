@@ -1,1 +1,2 @@
 Welcome to Aj Git repository
+This is a public repository accessible for all the users.
